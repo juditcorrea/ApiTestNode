@@ -1,10 +1,10 @@
 {
   "API_MOCS": {
     "api1": {
-      "url": "https://mocks.free.beeceptor.com/api1"
+      "url": "https://ce493ebd-e11f-4c78-bf37-11e1593cbaf4.mock.pstmn.io/api1"
     },
     "api2": {
-      "url": "https://mocks.free.beeceptor.com/api2"
+      "url": "https://ce493ebd-e11f-4c78-bf37-11e1593cbaf4.mock.pstmn.io/api2"
     }
   }
 }

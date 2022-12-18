@@ -1,5 +1,6 @@
 import { Router } from 'express';
 import { indexController } from './components/index.controller';
+import { apiController } from './utils/api.controller';
 
 class RegisterRoutes {
 
@@ -9,7 +10,7 @@ class RegisterRoutes {
          this.config();
     }
     config(): void {
-        this.router.get('/', indexController.index);
+        this.router.get('/', apiController.index);
     }
 }
 
